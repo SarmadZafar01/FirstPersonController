@@ -11,7 +11,7 @@ public class PLayerMovement : MonoBehaviour
     [SerializeField] private float SprintSpeed;
     public float slidespeed;
 
- // expose MaxSlopAngle through property
+
 
 
     private float DesiredMoveSpeed;
